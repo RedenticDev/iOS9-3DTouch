@@ -1,0 +1,12 @@
+Package: com.redenticdev.ios9-3dtouch
+Name: iOS9-3DTouch
+Version: 1.1.0
+Architecture: iphoneos-arm
+Description: Recreate iOS 9 3D Touch menu in iOS 13
+Icon: https://redentic.dev/depictions/com.redenticdev.ios9-3dtouch/icon.png
+Depiction: https://redentic.dev/depictions/?p=com.redenticdev.ios9-3dtouch
+SileoDepiction: https://redentic.dev/depictions/com.redenticdev.ios9-3dtouch/sileo.json
+Maintainer: RedenticDev <hello@redentic.dev>
+Author: RedenticDev <hello@redentic.dev>
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13)
